@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "exactOptionalPropertyTypes": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es2017"
+  }
+}
